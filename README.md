@@ -48,7 +48,6 @@
 <ul>
 Still on the ROAD...
 </ul>
-<h3>欢迎来到 ShenZhen!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<h3>WEILCOME to ShenZhen!</h3>
 the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>06:32</b> and sets at <b>17:43</b>.</p>
 
