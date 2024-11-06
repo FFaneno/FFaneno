@@ -42,15 +42,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      
-    </tr>
-	  <tr>
-      
-    </tr>
-    <tr>
-     
-    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
